@@ -1,0 +1,30 @@
+Subject: Exercise
+From: name <email@email.com>
+To: name <email@email.com>, name <email@email.com>
+Attachment: output.csv
+
+Dear All,
+
+I found something,
+
+From location A -> location B:
+Number of rows selected: <answer>
+Average passenger count per trip: <answer>
+Average total amount per trip: <answer>
+Average distance per trip: <anwser>
+Average duration per trip (in minutes): <answer>
+
+-------------------------------------------
+Summary (First 5 rows order by pickup time)
+-------------------------------------------
+tpep_pickup_datetime|tpep_dropoff_datetime|passenger_count|total_amount|trip_distance|trip_duration
+yyyy-mm-dd HH:MM:SS|yyyy-mm-dd HH:MM:SS|3|21.95|3.8
+yyyy-mm-dd HH:MM:SS|yyyy-mm-dd HH:MM:SS|2|13.3|2.1
+yyyy-mm-dd HH:MM:SS|yyyy-mm-dd HH:MM:SS|1|11.8|1.09
+yyyy-mm-dd HH:MM:SS|yyyy-mm-dd HH:MM:SS|2|30.3|4.3
+yyyy-mm-dd HH:MM:SS|yyyy-mm-dd HH:MM:SS|1|56.35|10.3
+
+-------
+My Repo
+-------
+https://github.com/username/your-repo.git

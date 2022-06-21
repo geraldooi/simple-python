@@ -1,0 +1,6 @@
+# Save this as .env
+# don't commit .env
+EMAIL_FROM=example@example.com
+EMAIL_PASSWORD=P@ssw0rd
+EMAIL_SERVER=mail.server.com
+EMAIL_OUT_PORT=465

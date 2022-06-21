@@ -1,0 +1,9 @@
+**/__PYCACHE__
+.ipynb_checkpoints
+venv
+
+.env
+**/trip_100.csv
+
+**/sample_output.csv
+**/output.csv
